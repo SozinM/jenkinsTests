@@ -1,0 +1,8 @@
+[customerID]
+test/test.robot,test1.robot,test2.robot
+
+[spID]
+test2/test3.robot/test4.robot/test5.robot
+
+[someArg]
+sometext
